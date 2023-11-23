@@ -1,1 +1,1 @@
-# Web Speech API - SpeechSynthesis
+# Array methods: Sort, Map, Reduce, Filter
